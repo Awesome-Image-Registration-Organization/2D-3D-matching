@@ -1,4 +1,4 @@
-2D-3D matching is an exciting yet challenging field, which aims to build the connection between 2D image pixels to 3D point clouds.
+**2D-3D matching** is an exciting yet challenging field, which aims to build the connection between 2D image pixels to 3D point clouds.
 It is the foundation for camera localization, image to pint cloud fusion and virtual reality. 
 
 This repository collects:
