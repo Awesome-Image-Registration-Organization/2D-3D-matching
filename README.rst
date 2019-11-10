@@ -1,29 +1,4 @@
-Anomaly Detection Learning Resources
-====================================
-
-.. image:: https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg
-   :target: https://github.com/yzhao062/anomaly-detection-resources/stargazers
-   :alt: GitHub stars
-
-
-.. image:: https://img.shields.io/github/forks/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/network
-   :alt: GitHub forks
-
-
-.. image:: https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE
-   :alt: License
-
-
-.. image:: https://awesome.re/badge-flat2.svg
-   :target: https://awesome.re/badge-flat2.svg
-   :alt: Awesome
-
-
-----
-
-`2D-3D matching <https://en.wikipedia.org/wiki/Anomaly_detection>`_
+ 2D-3D matching 
  is an exciting yet challenging field, which aims to build the connection between 2D image pixels to 3D point clouds.
  It is the foundation for camera localization, image to pint cloud fusion and virtual reality. 
 
@@ -89,7 +64,7 @@ by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in out
 
 `Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering <https://www.cis.upenn.edu/~jean/gbooks/geomath.html>`_ By **Jean Gallier and Jocelyn Quaintance**. The latest book from upenn about the algebra and optimization theory.
 
-`视觉SLAM十四讲 <https://github.com/gaoxiang12/slambook>`_ 高翔 and 张涛, et. al. 视觉陪准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。`[github] <https://github.com/gaoxiang12/slambook>`_ `[Videos] <https://space.bilibili.com/38737757>`_
+`视觉SLAM十四讲 <https://github.com/gaoxiang12/slambook>`_ 高翔 and 张涛, et. al. 视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。`[github] <https://github.com/gaoxiang12/slambook>`_ `[Videos] <https://space.bilibili.com/38737757>`_
 
 `Three-Dimensional Computer vision-A Geometric Viewpoint <https://mitpress.mit.edu/books/three-dimensional-computer-vision>`_  Classical 3D computer vision textbook.
 
@@ -114,7 +89,7 @@ Image Matching: Local Features & Beyond                 CVPR                    
 `[Website] <http://www.cs.cmu.edu/~hebert/geom.html>`_
 
 **Talk: 2017以来的2D to 3D， 吴毅红， VALSE 2018**\ :
-`[Into] <https://zhuanlan.zhihu.com/p/38611920>`_
+`[Website] <https://zhuanlan.zhihu.com/p/38611920>`_
 
 ----
 
@@ -164,7 +139,7 @@ Ceres Solver is an open source C++ library for modeling and solving large, compl
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-自定位技术在自动驾驶中的应用                                                                       中国计算机学会通讯             2018     [#hongdong2018]_                  No
+自定位技术在自动驾驶中的应用                                                                       中国计算机学会通讯             2018     [#hongdong2018]_              `[Info] <https://dl.ccf.org.cn/institude/institudeDetail?id=4020608384534528&_ack=1>`_ 
 A survey on visual-based localization: On the benefit of heterogeneous                             PR                            2018   [#piasco2018survey]_          `[PDF] <https://www.sciencedirect.com/science/article/abs/pii/S0031320317303448>`_
 Local and Global Methods for Registering 2D Image Sets and 3D Point Clouds                         Preprint                      2015   [#paudel2015local]_           `[PDF] <https://www.theses.fr/2015DIJOS077>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
